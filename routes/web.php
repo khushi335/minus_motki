@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/ghg', function () {
     return view('welcome');
 });
